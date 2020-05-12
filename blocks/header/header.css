@@ -1,0 +1,15 @@
+@import url(../header/__content/header__content.css);
+@import url(../header/__logo/header__logo.css);
+@import url(../header/__nav/header__nav.css);
+@import url(../header/__nav-links/header__nav-links.css);
+@import url(../header/__nav-link/header__nav-link.css);
+@import url(../header/__title/header__title.css);
+@import url(../header/__subtitle/header__subtitle.css);
+
+.header {
+    width: 100%;
+    background-image: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url(../../images/header-background.png);
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 187px;
+}
