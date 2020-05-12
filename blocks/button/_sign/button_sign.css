@@ -1,0 +1,9 @@
+.button_sign {
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    color: #ED4C5C;
+    margin-top: 39px;
+}
