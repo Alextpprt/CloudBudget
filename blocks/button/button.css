@@ -1,0 +1,10 @@
+@import url(../button/_login/button_login.css);
+@import url(../button/_sign/button_sign.css);
+
+.button {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
