@@ -1,0 +1,7 @@
+.easy-to-use__video-poster {
+    background: url(../../../images/video_poster.png);
+    background-repeat: no-repeat;
+    width: 445px;
+    height: 311px;
+    border-radius: 15px;
+}
