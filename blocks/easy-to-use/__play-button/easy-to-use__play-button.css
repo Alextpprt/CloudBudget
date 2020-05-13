@@ -1,0 +1,10 @@
+.easy-to-use__play-button {
+    background: url(../../../images/play_button.svg);
+    width: 66px;
+    height: 66px;
+    border: none;
+    position: absolute;
+    top: 115.5px;
+    left: -33px;
+    cursor: pointer;
+}
