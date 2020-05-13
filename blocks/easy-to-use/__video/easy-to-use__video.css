@@ -1,0 +1,6 @@
+.easy-to-use__video {
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 50%;
+}
