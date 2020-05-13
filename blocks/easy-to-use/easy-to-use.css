@@ -1,0 +1,11 @@
+@import url(./__row/easy-to-use__row.css);
+@import url(./__description/easy-to-use__description.css);
+@import url(./__link/easy-to-use__link.css);
+@import url(./__video/easy-to-use__video.css);
+@import url(./__video-poster/easy-to-use__video-poster.css);
+@import url(./__play-button/easy-to-use__play-button.css);
+
+.easy-to-use {
+    background-color: #fff;
+    padding: 95px 165px 95px 165px;
+}
